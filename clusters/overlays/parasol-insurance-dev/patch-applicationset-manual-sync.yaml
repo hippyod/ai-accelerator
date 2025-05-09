@@ -1,4 +1,2 @@
 - op: remove
-  path: /spec/syncPolicy
-- op: remove
   path: /spec/template/spec/syncPolicy
